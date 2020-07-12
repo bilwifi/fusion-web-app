@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Send Push Notifications Through Expo 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-10 17:39+0000\n"
+"PO-Revision-Date: 2020-07-11 19:06+0000\n"
+"Last-Translator: Mauro Martínez <maurohmartinez@gmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: es_ES\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "Push Notifications"
+msgstr "Notificaciones push"
+
+msgid "Push Notifications Sent"
+msgstr "Notificaciones push enviadas"
+
+msgid "Send a New Push"
+msgstr "Enviar notificación push"
+
+msgid "Important"
+msgstr "Importante"
+
+msgid ""
+"Here you can find all notifications that has been sent. This does not mean "
+"that all the recipients have indeed received the push notification since "
+"that depends on various external factors. For example, have the users given "
+"permission to your App? Sadly, we cannot verify that, but we can be sure "
+"that these notifications have been sent out."
+msgstr ""
+"Aquí puede encontrar todas las notificaciones que se han enviado. Esto no "
+"significa que todos los destinatarios hayan recibido la notificación push ya "
+"que eso depende de varios factores externos. Por ejemplo, ¿los usuarios han "
+"dado permiso a su aplicación? Lamentablemente, no podemos verificar eso, "
+"pero podemos estar seguros de que estas notificaciones se han enviadas."
+
+msgid "Recipients"
+msgstr "Destinatarios"
+
+msgid ""
+"Here you can see a list of all recipients registered from your App. Keep in "
+"mind that the delivery of push notifications is only posible for those who "
+"have granted the permission on their devices."
+msgstr ""
+"Aquí puede ver una lista de todos los destinatarios registrados desde su "
+"aplicación. Tenga en cuenta que la entrega de notificaciones push solo es "
+"posible para aquellos que han otorgado el permiso en sus dispositivos."
+
+msgid "Message title"
+msgstr "Título"
+
+msgid "Message subtitle - iOS"
+msgstr "Subtítulo del mensaje - iOS"
+
+msgid "Message body"
+msgstr "Cuerpo del mensaje"
+
+msgid "Screen"
+msgstr "Pantalla"
+
+msgid ""
+"Select the screen you want to redirect users when they tap on the push "
+"notification or leave it empty if the main screen is what you need."
+msgstr ""
+"Seleccione la pantalla que desea redirigir a los usuarios cuando abran la "
+"notificación push o déjela vacía si la pantalla principal es lo que necesita."
+
+msgid "Push Notifications :: All Notifications"
+msgstr "Fusión Web App :: Todas"
+
+msgid "All Notifications"
+msgstr "Todas las notificaciones"
+
+msgid "Push Notifications :: Send New"
+msgstr "Fusión Web App :: Enviar nueva"
+
+msgid "Send New"
+msgstr "Enviar nuevo"
+
+msgid "Push Notifications :: List Recipient"
+msgstr "Fusión Web App :: Destinatarios"
+
+msgid "See Recipients"
+msgstr "Ver destinatarios"
+
+msgid "Push notifications"
+msgstr "Notificaciones Push"
+
+msgid "P. Notifications"
+msgstr "Notificaciones P."
+
+msgid "Item successfully restored!"
+msgstr "¡Entrada restaurada con éxito!"
+
+msgid "Item successfully removed!"
+msgstr "¡Entrada eliminada con éxito!"
+
+msgid "Items successfully removed!"
+msgstr "¡Entradas eliminadas con éxito!"
+
+msgid "Items successfully restored!"
+msgstr "¡Entradas restauradas con éxito!"
+
+msgid "All"
+msgstr "Todas"
+
+msgid "Draft"
+msgstr "Borrador"
+
+msgid "Trash"
+msgstr "Papelera"
+
+msgid "No records to display."
+msgstr "No hay registros que mostrar."
+
+msgid "Are you sure you want to remove this item?"
+msgstr "¿Está seguro que desea eliminar esta entrada?"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Delete forever"
+msgstr "Eliminar permanentemente"
+
+msgid "Restore"
+msgstr "Restaurar"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Subtitle (iOS)"
+msgstr "Subtítulo (iOS)"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Sent on"
+msgstr "Enviada el"
+
+msgid "Name device"
+msgstr "Nombre del dispositivo"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Platform"
+msgstr "Plataforma"
+
+msgid "Installation ID"
+msgstr "ID de Instalación"
+
+msgid "Registered on"
+msgstr "Registrado el"
+
+msgid "The message will be sent immediately."
+msgstr "Este mensaje será enviado inmediátamente."
+
+msgid "Complete the form to send a push notification"
+msgstr "Complete el formulario para enviar la notificación push"
+
+msgid "Push Notifications :: Screens"
+msgstr "Fusión Web App :: Pantallas"
+
+msgid "Screens"
+msgstr "Pantallas"
+
+msgid ""
+"Here you can see the list of screens registered for your App. You can later "
+"use these to redirect your users when they open a new push notification, but "
+"keep in mind that the route should be exactly as it looks in your App for "
+"this to be able to work properly."
+msgstr ""
+"Aquí puede ver la lista de pantallas registradas para su aplicación. "
+"Posteriormente, puede usarlos para redirigir a sus usuarios en su aplicación "
+"cuando abran una nueva notificación push, pero tenga en cuenta que la ruta "
+"debe ser exactamente como se ve en su aplicación para que esto funcione "
+"correctamente."
+
+msgid "Route"
+msgstr "Ruta"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Requires id"
+msgstr "Requiere id"
+
+msgid "Send Now"
+msgstr "Enviar ahora"
+
+msgid "Register New Screen"
+msgstr "Registrar nueva pantalla"
+
+msgid "All Recipients"
+msgstr "Todos los destinatarios"
+
+msgid "Push Notifications :: Register Screen"
+msgstr "Fusión Web App :: Registro de pantalla"
+
+msgid "Register Screen"
+msgstr "Registro de pantalla"
+
+msgid "Register your app screens here"
+msgstr "Registre sus pantallas de aplicación aquí"
+
+msgid "The name of the route must match the one registered on your App."
+msgstr ""
+"El nombre de la ruta debe coincidir con el registrado en su aplicación."
+
+msgid "Screen title"
+msgstr "Título de Pantalla"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "Select yes if the screen on your app load an item by its ID."
+msgstr ""
+"Seleccione sí en caso de que la pantalla asociada deba cargar un elemento "
+"específico con ID."
+
+msgid "Requires ID"
+msgstr "Requiere ID"
+
+msgid "Register App Screen"
+msgstr "Registrar pantalla de aplicación"
+
+msgid "Please, make sure all required fields are completed."
+msgstr "Por favor, asegúrese de completar todos los campos obligatorios."
+
+msgid "An error occurred... please, try again."
+msgstr "Ha ocurrido un error. Por favor intente de nuevo."
+
+msgid "Done! A new push notification has successfully been sent."
+msgstr "¡Listo! Se ha enviado con éxito una nueva notificación push."
+
+msgid "New app screen successfully registered."
+msgstr "Nueva pantalla de aplicación registrada correctamente."
+
+msgid "Last edit"
+msgstr "Último editado"
+
+msgid "New app screen successfully updated."
+msgstr "Nueva pantalla de aplicación actualizada con éxito."
+
+msgid "New Push"
+msgstr "Nueva Push"
+
+msgid "Push Notifications :: New Push"
+msgstr "Fusión Web App :: Nueva"
+
+msgid "The push notification has been save to drafts."
+msgstr "La notificación push fue guardada en borradores."
+
+msgid "Save as draft"
+msgstr "Guardar como borrador"
+
+msgid "_draft"
+msgstr "_borrador"
+
+msgid "Fusion WA"
+msgstr "Fusión WA"

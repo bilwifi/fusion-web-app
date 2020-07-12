@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Send Push Notifications Through Expo 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-11 08:12+0000\n"
+"PO-Revision-Date: 2020-07-11 19:07+0000\n"
+"Last-Translator: Mauro Martínez <maurohmartinez@gmail.com>\n"
+"Language-Team: English (USA)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_EN\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "Push Notifications"
+msgstr ""
+
+msgid "Push Notifications Sent"
+msgstr ""
+
+msgid "Send a New Push"
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid ""
+"Here you can find all notifications that has been sent. This does not mean "
+"that all the recipients have indeed received the push notification since "
+"that depends on various external factors. For example, have the users given "
+"permission to your App? Sadly, we cannot verify that, but we can be sure "
+"that these notifications have been sent out."
+msgstr ""
+
+msgid "Recipients"
+msgstr ""
+
+msgid ""
+"Here you can see a list of all recipients registered from your App. Keep in "
+"mind that the delivery of push notifications is only possible for those who "
+"have granted the permission on their devices."
+msgstr ""
+
+msgid "Message title"
+msgstr ""
+
+msgid "Message subtitle - iOS"
+msgstr ""
+
+msgid "Message body"
+msgstr ""
+
+msgid "Screen"
+msgstr ""
+
+msgid ""
+"Select the screen you want to redirect users when they tap on the push "
+"notification or leave it empty if the main screen is what you need."
+msgstr ""
+
+msgid "Fusion Web App :: All Notifications"
+msgstr ""
+
+msgid "All Notifications"
+msgstr ""
+
+msgid "Fusion Web App :: Send New"
+msgstr ""
+
+msgid "Send New"
+msgstr ""
+
+msgid "Fusion Web App :: List Recipient"
+msgstr ""
+
+msgid "See Recipients"
+msgstr ""
+
+msgid "Push notifications"
+msgstr ""
+
+msgid "P. Notifications"
+msgstr ""
+
+msgid "Item successfully restored!"
+msgstr ""
+
+msgid "Item successfully removed!"
+msgstr ""
+
+msgid "Items successfully removed!"
+msgstr ""
+
+msgid "Items successfully restored!"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "No records to display."
+msgstr ""
+
+msgid "Are you sure you want to remove this item?"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Delete forever"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Subtitle (iOS)"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Sent on"
+msgstr ""
+
+msgid "Name device"
+msgstr ""
+
+msgid "Token"
+msgstr ""
+
+msgid "Platform"
+msgstr ""
+
+msgid "Installation ID"
+msgstr ""
+
+msgid "Registered on"
+msgstr ""
+
+msgid "The message will be sent immediately."
+msgstr ""
+
+msgid "Complete the form to send a push notification"
+msgstr ""
+
+msgid "Fusion Web App :: Screens"
+msgstr ""
+
+msgid "Screens"
+msgstr ""
+
+msgid ""
+"Here you can see the list of screens registered for your App. You can later "
+"use these to redirect your users when they open a new push notification, but "
+"keep in mind that the route should be exactly as it looks in your App for "
+"this to be able to work properly."
+msgstr ""
+
+msgid "Route"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Requires id"
+msgstr ""
+
+msgid "Send Now"
+msgstr ""
+
+msgid "Register New Screen"
+msgstr ""
+
+msgid "All Recipients"
+msgstr ""
+
+msgid "Fusion Web App :: Register Screen"
+msgstr ""
+
+msgid "Register Screen"
+msgstr ""
+
+msgid "Register your app screens here"
+msgstr ""
+
+msgid "The name of the route must match the one registered on your App."
+msgstr ""
+
+msgid "Screen title"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Select yes if the screen on your app load an item by its ID."
+msgstr ""
+
+msgid "Requires ID"
+msgstr ""
+
+msgid "Register App Screen"
+msgstr ""
+
+msgid "Please, make sure all required fields are completed."
+msgstr ""
+
+msgid "An error occurred... please, try again."
+msgstr ""
+
+msgid "Done! A new push notification has successfully been sent."
+msgstr ""
+
+msgid "New app screen successfully registered."
+msgstr ""
+
+msgid "Last edit"
+msgstr ""
+
+msgid "New app screen successfully updated."
+msgstr ""
+
+msgid "New Push"
+msgstr ""
+
+msgid "Fusion Web App :: New Push"
+msgstr ""
+
+msgid "The push notification has been save to drafts."
+msgstr ""
+
+msgid "Save as draft"
+msgstr ""
+
+msgid "_draft"
+msgstr ""
+
+msgid "Fusion WA"
+msgstr ""

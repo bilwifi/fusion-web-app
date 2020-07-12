@@ -116,7 +116,7 @@ final class FusionWebApp
      */
     public function rest_api_add_custom_routes()
     {
-        // https://abc.com/wp-json/appregister-user-token/
+        // https://abc.com/wp-json/app/appregister-user-token
         add_action('rest_api_init', function () {
             register_rest_route('app', '/register-user-token', array(
                 'methods' => 'POST',
@@ -962,7 +962,7 @@ final class FusionWebApp
         // validate data
         if (!isset($parameters['installation_id']) && !isset($parameters['token'])) {
             // Create the response object
-            $response = new WP_REST_Response(['device_removed' => false]);
+            $response = new WP_REST_Response(['device_removed' => false, 'error' => 'fields_not_valid']);
 
             // Add a custom status code
             $response->set_status(201);
@@ -978,7 +978,7 @@ final class FusionWebApp
         if ($removedByInstallation || $removedByToken) {
             $response = new WP_REST_Response(['device_removed' => true]);
         } else {
-            $response = new WP_REST_Response(['device_removed' => false]);
+            $response = new WP_REST_Response(['device_removed' => false, 'error' => 'could_not_remove_record']);
         }
 
         // Add a custom status code

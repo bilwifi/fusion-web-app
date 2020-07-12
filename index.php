@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Fusion Web App
  * Description: Connect your native App built with Expo to Wordpress and send push notifications.
- * Version: 1.0.9
+ * Version: 1.0.10
  * Author: Mauro Martínez
  * Author URI: https://inspiredpulse.com/
  */
@@ -22,7 +22,7 @@ define('FUSION_WA_ASSETS', plugin_dir_url(__FILE__) . 'assets/');
 define('FUSION_WA_T_ALL', str_replace('-', '_', FUSION_WA_SLUG) . '_all');
 define('FUSION_WA_T_RECIPIENTS', str_replace('-', '_', FUSION_WA_SLUG) . '_recipients');
 define('FUSION_WA_T_SCREENS', str_replace('-', '_', FUSION_WA_SLUG) . '_screens');
-define('FUSION_WA_VERSION', '1.0.9');
+define('FUSION_WA_VERSION', '1.0.10');
 define('FUSION_WA_DIR_LANG', dirname( plugin_basename( __FILE__ ) ) . '/languages');
 
 /**
